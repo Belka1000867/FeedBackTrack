@@ -10,8 +10,6 @@ import org.androidannotations.annotations.EActivity;
 @EActivity(R.layout.activity_main)
 public class MainActivity extends AppCompatActivity {
 
-git 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
