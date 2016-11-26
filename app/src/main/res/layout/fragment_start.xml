@@ -64,7 +64,7 @@
             android:background="@drawable/button"
             android:ems="8"
             android:text="@string/log_in"
-            android:layout_marginRight="18dp"
+            android:layout_marginRight="18dp"git 
             android:layout_below="@+id/etLogPassword"
             android:layout_marginEnd="18dp" />
 

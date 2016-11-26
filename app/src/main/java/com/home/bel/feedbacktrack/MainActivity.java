@@ -1,9 +1,9 @@
 package com.home.bel.feedbacktrack;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-import com.home.bel.feedbacktrack.ui.StartFragment_;
+import com.home.bel.feedbacktrack.ui.MainFragment_;
 
 import org.androidannotations.annotations.EActivity;
 
@@ -17,9 +17,11 @@ public class MainActivity extends AppCompatActivity {
         getSupportFragmentManager()
                 .beginTransaction()
                 .addToBackStack(null)
-                .add(R.id.mainFrameLayout, new StartFragment_(), "FRAGMENT_START_TAG")
+                .add(R.id.mainFrameLayout, new MainFragment_(), "FRAGMENT_START_TAG")
                 .commit();
 
     }
+
+
 
 }
