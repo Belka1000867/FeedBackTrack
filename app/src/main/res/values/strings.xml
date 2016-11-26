@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FeedBackTrack</string>
+    <string name="login_title">Welcome to the application</string>
+    <string name="login_info">Please sign in or sign up</string>
+    <string name="username">Username</string>
+    <string name="log_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
