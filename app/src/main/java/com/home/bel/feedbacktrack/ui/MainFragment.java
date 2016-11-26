@@ -6,7 +6,7 @@ import com.home.bel.feedbacktrack.R;
 
 import org.androidannotations.annotations.EFragment;
 
-@EFragment(R.layout.fragment_main)
+@EFragment(R.layout.fragment_start)
 public class MainFragment extends Fragment {
 
 
