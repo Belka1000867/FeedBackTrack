@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "893155765084",
-    "firebase_url": "https://feedbacktrack-394be.firebaseio.com",
-    "project_id": "feedbacktrack-394be",
-    "storage_bucket": "feedbacktrack-394be.appspot.com"
+    "project_number": "65308224478",
+    "firebase_url": "https://feedbacktrack-5a80c.firebaseio.com",
+    "project_id": "feedbacktrack-5a80c",
+    "storage_bucket": "feedbacktrack-5a80c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:893155765084:android:08352d4a64400a23",
+        "mobilesdk_app_id": "1:65308224478:android:08352d4a64400a23",
         "android_client_info": {
           "package_name": "com.home.bel.feedbacktrack"
         }
       },
       "oauth_client": [
         {
-          "client_id": "893155765084-ol771s090ms13tb85j9gvcgff27hmoah.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.home.bel.feedbacktrack",
-            "certificate_hash": "59622D8D3161AE11CFA7D0AE7D68956322693296"
-          }
-        },
-        {
-          "client_id": "893155765084-16voq5f7tfo72bqevmft5a9ntqohsns2.apps.googleusercontent.com",
+          "client_id": "65308224478-bs2r9pade3i43ihsq9o7s65gj43h38jn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD_3f66h9RjpJMBKUcfqJDvAySm21Mbkwo"
+          "current_key": "AIzaSyC7fi6BlFMmSZzFbjbnLQmEojsx1N1WebM"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "893155765084-16voq5f7tfo72bqevmft5a9ntqohsns2.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
